@@ -1,6 +1,6 @@
-# Execitiul #021
+# Execitiul #005
 
-In acest exercitiu ne este dat un screenshot de pe o camera live dintr-un zoo. Ni se mai adauga si faptul ca poza a fost facuta pe 15 Ianuarie 2023 in jurul orei 2 PM. Trebuie sa raspundem la urmatoarele intrebari:
+In acest exercitiu ne este dat un screenshot de pe o camera live dintr-o gradina zoologica. Ni se mai adauga si faptul ca poza a fost facuta pe 15 Ianuarie 2023 in jurul orei 2 PM. Trebuie sa raspundem la urmatoarele intrebari:
 
 a) In ce zoo se afla ursii polari?
 
@@ -70,6 +70,7 @@ Spre exemplu, o sa iau fiecare incadrare in dreptunghi/patrat pentru a explica c
 - Patratul verde: Fiind si un punct alb, imi vine a crede ca cel mai probabil fix aici stateau ursii din poza initiala.
 
 Concluzionand, raspunsul pentru intrebarea **c)** este **32°44'04.2"N 117°09'16.5"W**.
+
 
 
 ---
