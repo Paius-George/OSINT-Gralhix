@@ -19,7 +19,7 @@ Primul gand avand doar o imagine este de a da Reverse Image Search pe toate moto
 
 ![alt text](image-1.png)
 
-Pe TinEye gasim imagine in diferite blog-uri de medium.com, care sunt cel mai writeup-uri la acest exercitiu, deci prin urmare nimic folositor.
+Pe TinEye gasim imagine in diferite blog-uri de medium.com, unde sunt multe writeup-uri la acest exercitiu, deci prin urmare nimic folositor.
 
 #### Yandex
 
@@ -45,5 +45,6 @@ Astfel am ajuns si la raspunsul de la intrebarea **b)** rapid.
 Tot incercand diferite unghiuri am ajuns la acesta. Mi s-a parut ca arata asemanator cu poza initiala asa ca am ajuns la concluzia ca raspunsul este in coltul din dreapta sus, unde se poate observa camera care este directionata in directia **Nord-Vest**.
 
 Astfel raspunsul final pentru intrebarea **c)** este **Nord-Vest**.
+
 
 ---
