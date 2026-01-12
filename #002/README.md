@@ -11,7 +11,7 @@ b) Care este numele si inaltimea celei mai inalte structuri vazute in poza?
 
 ## Rezolvare
 
-Prima data am observat ca nuemele statiei se observa in poza pe trei plancarde, asadar nu am stat pe ganduri si am incercat sa gasesc statia direct in Google Maps.
+Prima data am observat ca numele statiei se observa in poza pe trei plancarde, asadar nu am stat pe ganduri si am incercat sa gasesc statia direct in Google Maps.
 
 ![alt text](image-1.png)
 
@@ -58,7 +58,7 @@ Cum caldirea ar trebui sa fie in spatele IBM Australia, m-am gandit sa verific i
 
 ![alt text](image-10.png)
 
-Daca ne intoarcem la poza originala data in exercitiu, putem observa faptul ca arhitectura cladirii este foarte aceeasi, deci prin urmare am gasit cladirea din poza initiala.
+Daca ne intoarcem la poza originala data in exercitiu, putem observa faptul ca arhitectura cladirii este aceeasi, deci prin urmare am gasit cladirea din poza initiala.
 
 ![alt text](image-11.png)
 
@@ -69,4 +69,5 @@ Verificand zona, am reusit sa ajung si la cladirea gasita. Vedem totusi pe usa d
 Pozele si locatia coincid si observam ca este specificata si intaltimea de **166 metri**.
 
 ---
+
 Astfel raspunsul de la intrebarea **b)** este **FOCUS Apartments by Central Equity** cu intaltimea de **166 metri**.
