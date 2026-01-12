@@ -25,9 +25,10 @@ Pagina este strict despre "Al-Qaeda in Iraq", nimic despre Pakitstan cum se sust
 ![alt text](image-4.png)
 ![alt text](image-5.png)
 
-Dupa cum putem observa imaginea este folosita pentru a reprezenta bombardarea masinilor din Irak, nicidecum de un attac suicidal din Pakistan. 
+Dupa cum putem observa imaginea este folosita pentru a reprezenta bombardarea masinilor din Irak, nicidecum un attac suicidal din Pakistan. 
 
 Conform detaliilor gasite, stirea este **falsa**.
 
 
 ---
+
