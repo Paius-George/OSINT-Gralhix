@@ -25,7 +25,9 @@ Din moment ce Google Maps nu este de foarte mare ajutor, o alternativa mai buna 
 
 In imgainea de mai jos, am incadrat intr-un dreptunghi rosu o parte de drum care este inconjurata de copaci si spatiu verde cum se poate observa in poza initiala. Inca un aspect important pe care l-am realizat cand cautam o zona potentiala a fost modul in care drumul coboara putin, iar apoi este o curba vizibila spre partea dreapta
 ![alt text](image-2.png)
+
 Totusi, sa analizam dintr-un unghi mai potrivit:
+
 ![alt text](image-3.png)
 ![alt text](image-4.png)
 
