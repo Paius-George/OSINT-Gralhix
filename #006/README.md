@@ -20,7 +20,7 @@ Am vazut ca al doilea site este Wikipedia, asa ca am intrat pentru a vedea unde 
 
 ![alt text](image-3.png)
 
-Pagina este strict despre "Al-Qaeda in Iraq", nimic despre Pakitstan cum se sustinea in stirea initiala. Totusi, cum am spus si mai sus trebuie sa gasim unde este folosita poza.
+Pagina este strict despre "Al-Qaeda in Iraq", nimic despre Pakitstan cum se sustinea in stirea initiala. Totusi, cum am spus si mai sus, trebuie sa gasim unde este folosita poza.
 
 ![alt text](image-4.png)
 ![alt text](image-5.png)
@@ -28,5 +28,6 @@ Pagina este strict despre "Al-Qaeda in Iraq", nimic despre Pakitstan cum se sust
 Dupa cum putem observa imaginea este folosita pentru a reprezenta bombardarea masinilor din Irak, nicidecum de un attac suicidal din Pakistan. 
 
 Conform detaliilor gasite, stirea este **falsa**.
+
 
 ---
