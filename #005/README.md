@@ -26,7 +26,7 @@ Pentru inceput am incercat ca de fiecare data sa dau un Reverse Search la imagin
 
 ![alt text](image-1.png)
 
-- Pe Yandex am avut ceva mai mult noroc. Intuitiv doar am verificat a doua imagine am descoperit o informatie foarte importanta.
+- Pe Yandex am avut ceva mai mult noroc. Intuitiv doar am verificat a doua imagine, unde am descoperit o informatie foarte importanta.
 
 ![alt text](image-2.png)
 
@@ -74,3 +74,4 @@ Concluzionand, raspunsul pentru intrebarea **c)** este **32°44'04.2"N 117°09'1
 
 
 ---
+
