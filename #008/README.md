@@ -1,6 +1,6 @@
 # Execitiul #008
 
-In acest exercitiu, primim o imagine cu o pagina din ziarul chinezes "Epoch Times" si trebuie sa raspundem la urmatoarele intrebari:
+In acest exercitiu, primim o imagine cu o pagina din ziarul chinezesc "Epoch Times" si trebuie sa raspundem la urmatoarele intrebari:
 
 ![alt text](image-10.png)
 
@@ -66,5 +66,6 @@ Analog, am ajuns la Chrysler Hall din Norfolk, Virginia. Am verificat cateva ima
 ![alt text](image-9.png)
 
 Cum se observa clar asemanarile dintre aceasta sala si cea din poza din ziar, raspunsul pentru intrebarea **c)** este **Chrysler Hall**.
+
 
 ---
