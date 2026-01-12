@@ -25,7 +25,7 @@ Cautand "Vasco de Gamma Mall Lisbon" pe Google Maps observam aceasta zona:
 
 ![alt text](image-5.png)
 
-Dreptunghiul verde reprezinta zona cu copaci care se observa in imaginea initiala in partea stanga a imaginii, iar nu departe de copaci putem observa si structura pe care am incadrat-o intr-un patrat rosu. Totusi ca sa ma asigur ca aceasta este zona cautata am ales sa reproduc imaginea in Google Maps.
+Dreptunghiul verde reprezinta zona cu copaci care se observa in imaginea initiala in partea stanga, iar nu departe de copaci putem observa si structura pe care am incadrat-o intr-un patrat rosu. Totusi ca sa ma asigur ca aceasta este zona cautata am ales sa reproduc imaginea in Google Maps.
 
 ![alt text](image-6.png)
 
@@ -66,5 +66,6 @@ Gresit. Anii in care puteam verifica erau doar 2024 si 2021. A doua incercare a 
 ![alt text](image-13.png)
 
 Asadar, raspunsul pentru intrebarea **c)** este **www.tutankamon.pt**.
+
 
 ---
