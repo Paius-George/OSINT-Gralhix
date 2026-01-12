@@ -1,6 +1,6 @@
 ## Execitiul #006
 
-In acest exercitiu, primim o imagine cu o stire si trebuie sa verificam daca stirea este adevarata sau falsa.
+In acest exercitiu, primim o imagine cu o stire si trebuie sa verificam daca aceasta este adevarata sau falsa.
 
 ![alt text](image.png)
 
@@ -31,4 +31,5 @@ Conform detaliilor gasite, stirea este **falsa**.
 
 
 ---
+
 
