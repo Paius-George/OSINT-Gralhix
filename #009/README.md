@@ -1,16 +1,20 @@
-# Execitiul #009
+[‹ Back to all exercises](../README.md) · [Versiunea în limba română →](README.ro.md)
 
-In acest exercitiu primim o [filmare](https://youtu.be/axC30cE_O-4) postata si pe contul de Twitter "Visit Tirana". Trebuie sa raspundem la intrebarea:
+---
 
-a) La ce ora a fost postat video-ul?
+# Exercise #009
 
-Si task-ul:
+In this exercise we receive a [video](https://youtu.be/axC30cE_O-4) also posted on the Twitter account "Visit Tirana". We have to answer the question:
 
-b) Gaseste coordonatele unde persoana se plimba in timpul inregistrarii.
+a) At what time was the video posted?
 
-# Rezolvare
+And the task:
 
-Pentru inceput am incercat mai intai sa gasesc pe diverse platforme video-ul respectiv.
+b) Find the coordinates where the person is walking during the recording.
+
+# Solution
+
+To begin with, I first tried to find the video on various platforms.
 
 
 ## Twitter
@@ -19,121 +23,121 @@ Pentru inceput am incercat mai intai sa gasesc pe diverse platforme video-ul res
 
 ![alt text](image-1.png)
 
-Am incercat sa vad daca pot gasi ceva in pagina de "Elements" dupa ce am dat inspect, dar nu am gasit nimic relevant
+I tried to see whether I could find anything in the "Elements" page after inspecting, but I found nothing relevant.
 
 ## Instagram
 
-Aici am picat intr-un mic trap. Am incercat sa caut pe pagina de instagram cu acelasi nume si poza ca pe Twitter, dar nu am gasit video-ul. Totusi, stiam de la pasul anterior faptul ca video-ul ii apartine lui "Eriseld Myrto" care a fost si creditat in post-ul de pe Twitter de mai sus.
+Here I fell into a small trap. I tried searching on the Instagram page with the same name and photo as on Twitter, but I didn't find the video. Still, I knew from the previous step that the video belongs to "Eriseld Myrto", who was also credited in the Twitter post above.
 
-Nici aici nu am mai avut prea mult noroc gasind diferite conturi cu numele "Myrto" dar niciunul util. Am pierdut putin timp prin search-ul cu numele lui si am dat de o postare pe Facebook, unde din nou a fost creditat pentru o poza facuta de el.
+I didn't have much luck here either, finding various accounts with the name "Myrto" but none useful. I wasted a little time searching for his name and came across a Facebook post, where he was again credited for a photo he took.
 
 ![alt text](image-2.png)
 
-#four_s34sons - acest # fix dupa numele lui, iar restul de hashtag-uri sub. Nu mi s-a parut o coincidenta si am incercat acest username pe Instagram.
+#four_s34sons - this # right after his name, and the rest of the hashtags below. It didn't seem like a coincidence to me and I tried this username on Instagram.
 
 ![alt text](image-3.png)
 
-In prima postare este steagul Albaniei, un semn clar ca sunt pe drumul cel bun.
+In the first post is the flag of Albania, a clear sign that I'm on the right track.
 
 ![alt text](image-4.png)
 
-Dupa putin timp am gasit exact postarea si analog, am dat de informatiile necesare:
+After a little while I found exactly the post and, analogously, I came across the necessary information:
 
 ![alt text](image-5.png)
 
-Astfel, pentru intrebarea **a)** raspunsul este: **16:48:43**.
+Thus, for question **a)** the answer is: **16:48:43**.
 
 ---
 
-Inainte sa ma apuc sa caut pe Google Maps prin toata Tirana strada de unde a fost facuta filmare, am decis ca este mai util sa strang niste informatii ce m-ar putea ajuta sa identific mai usor. Ce se poate observa in video:
+Before I set out to search all over Tirana on Google Maps for the street where the footage was taken, I decided it was more useful to gather some information that could help me identify it more easily. What can be seen in the video:
 
-- O cladire foarte inalta pe partea dreapta.
-- Pe ambele sensuri de mers era trafic.
+- A very tall building on the right side.
+- There was traffic in both directions.
 
-Ce pot face cu aceste infomatii? In timp ce cautam video-ul pe pagina de Instagram, mi-au atras atentia doua alte postari.
+What can I do with this information? While searching for the video on the Instagram page, two other posts caught my attention.
 
 ![alt text](image-6.png)
 
-- Dreptunghiul verde: se observa o cladire asemanatoare cu cea de care vorbeam mai sus.
-- Dreptunghiul rosu: O filmare de la distanta, din care sper ca voi gasi informatii utile.
-- Dreptunghiul galben: Filmarea initiala.
+- The green rectangle: you can see a building similar to the one I was talking about above.
+- The red rectangle: a shot from a distance, from which I hope I'll find useful information.
+- The yellow rectangle: the original footage.
 
 
-### Postarea din dreptunghiul galben:
+### The post in the yellow rectangle:
 ![alt text](image-7.png)
 
-Este extrem de asemanatoare cu acea cladire din filmare. Totusi, ceva de adaugat este peisajul din spate unde se observa niste munti, care pot fi de folos in localizarea cladirii.
+It is extremely similar to that building in the footage. Still, something to add is the background scenery where you can see some mountains, which can be useful in locating the building.
 
-### Video-ul din dreptunghiul rosu:
+### The video in the red rectangle:
 
-Aici am descoperit mai multe informatii cheie.
+Here I discovered more key information.
 
 > ![alt text](image-8.png)
 
- Pare a fi cladirea din dreptunghiul verde de mai sus.
+ It seems to be the building in the green rectangle above.
 
 ---
 
 > ![alt text](image-9.png)
 
-Niste cladiri pe care nu le-am observat pana acum, dar clar vor fi utile fiind usor de observat din satelit datorita formelor triunghiulare.
+Some buildings I hadn't noticed until now, but they will clearly be useful, being easy to spot from the satellite thanks to their triangular shapes.
 
 ---
 
 > ![alt text](image-10.png)
 
-Se observa clar foarte multa apa, iar langa apa un despartitor ce pare a fi facut de mana umana, nu natural.
+You can clearly see a lot of water, and next to the water a divider that appears to be man-made, not natural.
 
 ---
 
-Acum ca am analizat tot foarte concret, e timpul sa trecem in Google Maps, unde voi folosi:
+Now that I've analyzed everything very concretely, it's time to move to Google Maps, where I'll use:
 
-- Modul de teren: pentru a vedea zonele muntoase.
-- Informatii din trafic: Unde am setat ziua ca fiind cea de pe data 16 Februarie 2023, adica joi, iar ora in jurul celei gasite la **a)** 16:48:44
+- Terrain mode: to see the mountainous areas.
+- Traffic information: where I set the day as February 16, 2023, i.e. Thursday, and the time around the one found in **a)**, 16:48:44.
 
 ![alt text](image-11.png)
 
-Astfel, avem 2 lacuri de verificat. Am decis sa analizez mai intai lacul din stanga.
+Thus, we have 2 lakes to check. I decided to analyze the lake on the left first.
 
 ![alt text](image-12.png)
 
-Folosind si modul de satelit, putem observa lacul, iar fix langa cladirile cu forme triunghiulare despre care vorbeam anterior. 
+Using satellite mode too, we can see the lake, and right next to it the triangular-shaped buildings I mentioned earlier. 
 
 ![alt text](image-13.png)
 
-Am incercat sa fac o demonstratie, prin care sper ca se poate intelege ceva. Totusi am sa explic gandirea mea:
+I tried to make a demonstration, through which I hope something can be understood. Still, I'll explain my reasoning:
 
-- Am incercuit cu negru zona muntoasa.
-- Am incercuit cu albastru lacul despre care vorbeam.
-- Am incercuit cu verde pozitionarea cladirilor triunghiulare.
-- Am incercuit cu rosu o strada aglomerata intr-o zi de joi in Tirana.
+- I circled the mountainous area in black.
+- I circled in blue the lake I was talking about.
+- I circled in green the positioning of the triangular buildings.
+- I circled in red a busy street on a Thursday in Tirana.
 
-Ce am reusit sa gasesc: 
+What I managed to find: 
 
 ![alt text](image-14.png)
 
-Aceasta cladire, doar urmand indiciile pe care le aveam deja. Cu dorinta de a verifica daca am ajuns la un rezultat am incercat sa verific si am ramas neplacut surprins.
+This building, just by following the clues I already had. Wanting to check whether I had reached a result, I tried to verify it and was unpleasantly surprised.
 
 ![alt text](image-15.png)
 
-Imaginile dupa cum se poate observa sunt din 2016, iar unde am pus dreptunghiul rosu, acolo ar fi trebuit sa se afle cladirea cautata. Neavand cladirea, trebuie sa gasesc alt reper ce se observa si in filamre si la mine pe Google Maps, ca de exemplu:
+The images, as you can see, are from 2016, and where I placed the red rectangle, that's where the building I was looking for should have been. Without the building, I have to find another landmark that appears both in the footage and on my Google Maps, such as:
 
 ![alt text](image-16.png)
 
-Aceasta cladire, care este chiar cladirea: 
+This building, which is exactly the building: 
 
 ![alt text](image-17.png)
 
-Sau, alt exemplu aceasta cladire:
+Or, another example, this building:
 
 ![alt text](image-19.png)
 
-Care este:
+Which is:
 
 ![alt text](image-18.png)
 
-Dupa cum se poate observa dupa acoperisul triunghiular.
+As can be seen from the triangular roof.
 
-Astfel, am ajuns la raspunsul de la task-ul **b)** care este: **41.326881, 19.806880**.
+Thus, I reached the answer for task **b)**, which is: **41.326881, 19.806880**.
 
 ---
