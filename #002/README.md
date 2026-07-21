@@ -1,73 +1,77 @@
-## Execitiul #002
+[‹ Back to all exercises](../README.md) · [Versiunea în limba română →](README.ro.md)
 
-In acest exercitiu, primim o imagine dintr-o statie de de tren si trebuie sa raspundem la 2 intrebari. 
+---
+
+## Exercise #002
+
+In this exercise, we receive an image from a train station and have to answer 2 questions. 
 
 ![alt text](image.png)
 
-a) Care este numele statiei de tren din poza?
+a) What is the name of the train station in the photo?
 <p> </p>
-b) Care este numele si inaltimea celei mai inalte structuri vazute in poza?
+b) What is the name and height of the tallest structure seen in the photo?
 
 
-## Rezolvare
+## Solution
 
-Prima data am observat ca numele statiei se observa in poza pe trei plancarde, asadar nu am stat pe ganduri si am incercat sa gasesc statia direct in Google Maps.
+First I noticed that the name of the station appears in the photo on three signs, so I didn't hesitate and tried to find the station directly on Google Maps.
 
 ![alt text](image-1.png)
 
-La un singur search putem observa ca vedem o statie de tren si pentru a confirma m-am gandit sa verific si numele unei cladiri din spate pentru a vedea daca asta este zona corecta si nu doar o coincidenta.
+With a single search we can see a train station, and to confirm it I thought I'd also check the name of a building in the background to see whether this is the right area and not just a coincidence.
 
-Am ales sa verific cladirea din spate IBM.
+I chose to check the IBM building in the background.
 ![alt text](image-2.png)
 
-Am reusit sa gasesc si cladirea si din cate putem observa nu este foarte departe de statie. Am ales sa imi dau seama exact si de unde a fost facuta poza, asadar m-am intors in statie si am ales un punct din care pot observa si cladirea.
+I managed to find the building too, and as we can see it is not very far from the station. I chose to also figure out exactly where the photo was taken from, so I went back into the station and picked a point from which I could also see the building.
 
 ![alt text](image-3.png)
-Asadar cum zona este buna, am gasit raspunsul la intrebarea **a)** care este **Flinders Street Railway Station**
+So, since the area checks out, I found the answer to question **a)**, which is **Flinders Street Railway Station**.
 
-Imi mai ramane intrebare **b)** si pentru a raspunde trebuie sa ma intorc la poza initiala unde se vad 6 structuri. Luand fiecare structura in parte ar ramane 3 candidati: turnul din stanga, cladirea IBM si cladirea din dreapta.
+That leaves question **b)**, and to answer it I have to go back to the original photo where 6 structures are visible. Taking each structure in turn, 3 candidates remain: the tower on the left, the IBM building, and the building on the right.
 
 ![alt text](image-4.png)
 
-### I. Turnul
+### I. The Tower
 
-Pentru a gasi inaltimea turnului trebuie mai intai sa il gasim pe Google Maps pentru a avea un nume pentru ca ulterior sa ii cautam inaltimea. Intorcandu-ne pe Google Maps stim zona in care s-ar afla, deci daca ne-am uita cu modul "Satelit" ar trebui sa il observam destul de usor.
+To find the height of the tower we first have to find it on Google Maps so we have a name, in order to later look up its height. Going back to Google Maps we know the area where it would be, so if we look in "Satellite" mode we should spot it fairly easily.
 
 ![alt text](image-5.png)
 
 ![alt text](image-6.png)
 
-Acum ca stim si numele exact al turnului ii putem cauta inaltimea.
+Now that we also know the exact name of the tower we can look up its height.
 
 ![alt text](image-7.png)
 
-Un raspuns la una din cele 3 structuri il avem. Turnul are inaltimea de **162 metri**.
+We have an answer for one of the 3 structures. The tower has a height of **162 metres**.
 
-### II. Cladirea IBM
+### II. The IBM Building
 
-Numele il stim deja, este cladirea IBM Australia din Melbourne. La un search distanta ii gasim inaltimea. 
+We already know the name, it is the IBM Australia building in Melbourne. A search away we find its height. 
 ![alt text](image-8.png)
 
 ![alt text](image-9.png)
 
-Din cate putem observa si acoperisul coincide, deci inaltimea stim acum ca este de **131 metri**.
+As we can see, the roof matches too, so we now know the height is **131 metres**.
 
-### III. Cladirea din dreapta
+### III. The building on the right
 
-Cum caldirea ar trebui sa fie in spatele IBM Australia, m-am gandit sa verific in Google Earth si am observat asta:
+Since the building should be behind IBM Australia, I thought I'd check in Google Earth and I noticed this:
 
 ![alt text](image-10.png)
 
-Daca ne intoarcem la poza originala data in exercitiu, putem observa faptul ca arhitectura cladirii este aceeasi, deci prin urmare am gasit cladirea din poza initiala.
+If we go back to the original photo given in the exercise, we can see that the building's architecture is the same, so we have therefore found the building from the original photo.
 
 ![alt text](image-11.png)
 
-Verificand zona, am reusit sa ajung si la cladirea gasita. Vedem totusi pe usa de la intrare numele cladirii "Focus" si un site sub [focusapartments.com](https://focusapartments.com).
+Checking the area, I managed to reach the building I found. On the entrance door, however, we see the building's name "Focus" and a website below it, [focusapartments.com](https://focusapartments.com).
 
 ![alt text](image-12.png)
 
-Pozele si locatia coincid si observam ca este specificata si intaltimea de **166 metri**.
+The photos and the location match, and we notice that the height of **166 metres** is also specified.
 
 ---
 
-Astfel raspunsul de la intrebarea **b)** este **FOCUS Apartments by Central Equity** cu intaltimea de **166 metri**.
+Thus the answer to question **b)** is **FOCUS Apartments by Central Equity**, with a height of **166 metres**.
