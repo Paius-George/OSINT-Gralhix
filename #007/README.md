@@ -1,71 +1,75 @@
-## Execitiul #007
+[‹ Back to all exercises](../README.md) · [Versiunea în limba română →](README.ro.md)
 
-In acest exercitiu, primim o imagine facuta acum cativa ani si trebuie sa raspundem la urmatoarele intrebari:
+---
 
-a) Unde a fost poza facuta?
+## Exercise #007
 
-b) In ce an a fost facuta poza?
+In this exercise, we receive a photo taken a few years ago and have to answer the following questions:
 
-c) Posterul mare din dreapta spate continea un link. Care era link-ul?
+a) Where was the photo taken?
+
+b) In what year was the photo taken?
+
+c) The large poster in the back right contained a link. What was the link?
 
 
 ![alt text](image.png)
 
-## Rezolvare
+## Solution
 
-Pentru inceput m-am gandit sa fac screenshot doar la structura ce se poate observa in poza si sa folosesc Reverse Image Search cu Yandex. Acestea au fost rezultatele:
+To begin with, I thought I'd take a screenshot of just the structure visible in the photo and use Reverse Image Search with Yandex. These were the results:
 
 ![alt text](image-2.png)
 
-Dand click pe link-ul de langa ajungem pe pagina aceasta:
+Clicking the link next to it, we reach this page:
 
 ![alt text](image-3.png)
 
-Cautand "Vasco de Gamma Mall Lisbon" pe Google Maps observam aceasta zona:
+Searching "Vasco de Gamma Mall Lisbon" on Google Maps, we notice this area:
 
 ![alt text](image-5.png)
 
-Dreptunghiul verde reprezinta zona cu copaci care se observa in imaginea initiala in partea stanga, iar nu departe de copaci putem observa si structura pe care am incadrat-o intr-un patrat rosu. Totusi ca sa ma asigur ca aceasta este zona cautata am ales sa reproduc imaginea in Google Maps.
+The green rectangle represents the area with trees seen on the left side of the original image, and not far from the trees we can also see the structure I boxed in a red square. Still, to make sure this is the area I was looking for, I chose to reproduce the image in Google Maps.
 
 ![alt text](image-6.png)
 
-Cred ca asemanarile sunt evidente. Asdar, raspunsul pentru intrebarea **a)** este **Centrul Comercial Vasco de Gama**
+I think the similarities are obvious. So, the answer for question **a)** is the **Vasco da Gama Shopping Centre**.
 
 ---
 
-Pentru a raspunde la a doua intrebare, am stat sa ma gandesc putin cum as putea sa imi dau seama. Totusi ceva ce observasem deja anuntul din partea dreapta a imaginii mele difera de cel din poza. In poza mea se observa un anunt cu fundal negru, iar in poza originala un anunt cu Tutankhamon. Asadar, m-am intors pe Google Maps si am inceput sa verific diversi ani.
+To answer the second question, I sat and thought a bit about how I could figure it out. Something I had already noticed, though, was that the advertisement on the right side of my image differs from the one in the photo. In my photo you can see an ad with a black background, while in the original photo an ad with Tutankhamun. So I went back to Google Maps and started checking various years.
 
 
-### Anul 2022:
+### Year 2022:
 ![alt text](image-7.png)
 
-### Anul 2021:
+### Year 2021:
 
 ![alt text](image-8.png)
 
-### Anul 2019:
+### Year 2019:
 
 ![alt text](image-9.png)
 
-### Anul 2018:
+### Year 2018:
 
 ![alt text](image-10.png)
 
-Astfel, concluzia la care am ajuns pentru intrebarea **b)** este ca fotografia a fost facuta in **anul 2019**.
+Thus, the conclusion I reached for question **b)** is that the photo was taken in **2019**.
 
 ---
 
-Pentru a treia intrebare, m-am gandit doar ca o sa ma duc foarte aproape de afis in Google Maps si voi putea vedea clar link-ul din afis.
+For the third question, I just thought I'd go very close to the poster in Google Maps and be able to clearly see the link on it.
 
 ![alt text](image-11.png)
 
-Gresit. Anii in care puteam verifica erau doar 2024 si 2021. A doua incercare a fost sa dau un search cu "tutankhamon" urmat de "lisbon" locul unde gasisem anuntul. Cu aceasta metoda, am ajuns la un videoclip pe Youtube unde se observa si pe parcursul videoclip-ului si in thumbnail link-ul.
+Wrong. The only years I could check were 2024 and 2021. My second attempt was to run a search with "tutankhamon" followed by "lisbon", the place where I had found the ad. With this method, I reached a YouTube video where the link is visible both throughout the video and in the thumbnail.
 
 ![alt text](image-12.png)
 
 ![alt text](image-13.png)
 
-Asadar, raspunsul pentru intrebarea **c)** este **www.tutankamon.pt**.
+So, the answer for question **c)** is **www.tutankamon.pt**.
 
 
 ---

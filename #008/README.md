@@ -1,59 +1,63 @@
-# Execitiul #008
+[‹ Back to all exercises](../README.md) · [Versiunea în limba română →](README.ro.md)
 
-In acest exercitiu, primim o imagine cu o pagina din ziarul chinezesc "Epoch Times" si trebuie sa raspundem la urmatoarele intrebari:
+---
+
+# Exercise #008
+
+In this exercise, we receive an image of a page from the Chinese newspaper "Epoch Times" and have to answer the following questions:
 
 ![alt text](image-10.png)
 
-a) Pe cine aplauda audienta?
+a) Who is the audience applauding?
 
-b) Cand a fost poza facuta?
+b) When was the photo taken?
 
-c) Care este numele locatiei?
+c) What is the name of the venue?
 
-# Rezolvare
+# Solution
 
-Pentru inceput, pentru ca din pacate nu stiu chineza, deci prin urmare nu stiu sa traduc, trebuie sa gasesc o metoda prin care sa o fac.
+To begin with, since unfortunately I don't know Chinese and therefore can't translate it, I have to find a method to do so.
 
 ![alt text](image.png)
 
-Ce putem observa sunt cuvintele cheie "Shen Yun" si faptul ca eveniment-ul s-a intamplat in 7 orase din Statele Unite si din Europa. Conform textului, am gasit deja raspunsul pentru intrebarea **a)** multimea aplaudand un moment de **Shen Yun**.
+What we can notice are the keywords "Shen Yun" and the fact that the event took place in 7 cities in the United States and Europe. According to the text, I already found the answer for question **a)**: the crowd applauding a **Shen Yun** performance.
 
 ---
 
-Pentru raspunsurile urmatoare trebuie totusi sa ma folosesc mai mult de informatiile pe care le am deja. Asadar, am copiat titlul in limba chineza si i-am dat un search.
+For the following answers, however, I have to make more use of the information I already have. So, I copied the title in Chinese and searched for it.
 
 ![alt text](image-1.png)
 
-Ajungand la aceasta pagina:
+Reaching this page:
 ![alt text](image-2.png)
 
-Am tradus site-ul in limba engleza si am inceput sa caut informatii utile.
+I translated the site into English and started looking for useful information.
 
 ![alt text](image-3.png)
 
-Folosind traducerea am ajuns si la raspunsul pentru intrebarea **b)** care este **7 ianuarie 2023**
+Using the translation I reached the answer for question **b)**, which is **January 7, 2023**.
 
 ---
 
-Petrecand mai mult timp pe pagina si citind textele am inceput sa imi dau seama ca imaginile din ziarul fizic nu erau si pe ziarul online incepand sa ma tem ca as fi pierdut timpul si cautasem in sursa gresita. Totusi putin scroll mai jos si am dat de aceasta imagine:
+Spending more time on the page and reading the texts, I began to realize that the images from the physical newspaper were not on the online one, and I started to fear that I had wasted time and searched the wrong source. Still, a little scroll down and I came across this image:
 
 ![alt text](image-4.png)
 
-Imagine care se afla si in ziarul fizic, in dreapta sus. Aici putem trage concluzia ca sursa este buna. Totusi, inca un lucru pe care l-am observat cand citeam a fost partea de introducere unde ni se prezinta diferite state din Statele Unite si tarile din Europa unde a avut loc evenimentul.
+An image that is also in the physical newspaper, in the top right. Here we can conclude that the source is good. Still, another thing I noticed while reading was the introductory part where various US states and European countries where the event took place are presented.
 
 ![alt text](image-5.png)
 
-Neavand alte indici, singura solutie e sa luam manual fiecare stat si tara si sa verificam unde au avut loc si daca sala respectiva seamana cu cea din ziarul fizic.
+With no other clues, the only solution is to manually take each state and country and check where they took place and whether the respective hall resembles the one in the physical newspaper.
 
 ### I. Atlanta
 
 ![alt text](image-6.png)
 
-Putem observa cum ni se comunica faptul ca evenimentul a avut loc in "Woodruff Arts Center-Symphony Hall" in Atlanta. Nestand prea mult pe ganduri am incercat direct sa verific daca aceasta este sala pe Google Maps.
+We can see that we are told the event took place at the "Woodruff Arts Center - Symphony Hall" in Atlanta. Without dwelling too long, I tried to directly check whether this is the hall on Google Maps.
 
 ![alt text](image-7.png)
 
-Dupa cum putem vedea nu exista nicio asemanare intre aceasta sala si cea din imaginea din ziar, deci trecem la urmatoarea locatie.
+As we can see, there is no resemblance between this hall and the one in the newspaper image, so we move on to the next location.
 
 ---
 
@@ -61,11 +65,11 @@ Dupa cum putem vedea nu exista nicio asemanare intre aceasta sala si cea din ima
 
 ![alt text](image-8.png)
 
-Analog, am ajuns la Chrysler Hall din Norfolk, Virginia. Am verificat cateva imagini si mi s-a parut o asemanare izbitoare, dar pentru a ma convinge am folosit modul "Street View & 360".
+Analogously, I reached Chrysler Hall in Norfolk, Virginia. I checked a few images and it seemed a striking resemblance, but to convince myself I used the "Street View & 360" mode.
 
 ![alt text](image-9.png)
 
-Cum se observa clar asemanarile dintre aceasta sala si cea din poza din ziar, raspunsul pentru intrebarea **c)** este **Chrysler Hall**.
+As the similarities between this hall and the one in the newspaper photo are clear, the answer for question **c)** is **Chrysler Hall**.
 
 
 ---
