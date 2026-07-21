@@ -1,36 +1,37 @@
-## Execitiul #006
+[‹ Back to all exercises](../README.md) · [Versiunea în limba română →](README.ro.md)
 
-In acest exercitiu, primim o imagine cu o stire si trebuie sa verificam daca aceasta este adevarata sau falsa.
+---
+
+## Exercise #006
+
+In this exercise, we receive an image of a news item and have to verify whether it is true or false.
 
 ![alt text](image.png)
 
 
 
-## Rezolvare
+## Solution
 
-Primul gand a fost sa gasesc acest tweet pentru a gasi imaginea si a ii da Reverse Image Search. Am cautat titlul tweet-ului si am gasit aceasta postare:
+My first thought was to find this tweet in order to obtain the image and run a Reverse Image Search on it. I searched for the tweet's title and found this post:
 
 ![alt text](image-1.png)
 
-Dupa un Reverse Image Search pe TinEye am ajuns la urmatoarele site-uri:
+After a Reverse Image Search on TinEye I arrived at the following sites:
 
 ![alt text](image-2.png)
 
-Am vazut ca al doilea site este Wikipedia, asa ca am intrat pentru a vedea unde este folosita poza intr-o pagina de Wikipedia.
+I saw that the second site was Wikipedia, so I went in to see where the photo is used on a Wikipedia page.
 
 ![alt text](image-3.png)
 
-Pagina este strict despre "Al-Qaeda in Iraq", nimic despre Pakitstan cum se sustinea in stirea initiala. Totusi, cum am spus si mai sus, trebuie sa gasim unde este folosita poza.
+The page is strictly about "Al-Qaeda in Iraq", nothing about Pakistan as claimed in the original news item. Still, as I said above, we have to find where the photo is used.
 
 ![alt text](image-4.png)
 ![alt text](image-5.png)
 
-Dupa cum putem observa imaginea este folosita pentru a reprezenta bombardarea masinilor din Irak, nicidecum un atac suicidal din Pakistan. 
+As we can see, the image is used to represent the bombing of cars in Iraq, by no means a suicide attack in Pakistan. 
 
-Conform detaliilor gasite, stirea este **falsa**.
+Based on the details found, the news item is **false**.
 
 
 ---
-
-
-
