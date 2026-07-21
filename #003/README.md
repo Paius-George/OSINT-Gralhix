@@ -1,25 +1,29 @@
-## Execitiul #002
+[‹ Back to all exercises](../README.md) · [Versiunea în limba română →](README.ro.md)
 
-In acest exercitiu, primim o imagine in care presedintele Somaliei a facut prima vizita internationala in Turcia in anul 2017.
+---
+
+## Exercise #003
+
+In this exercise, we receive an image in which the president of Somalia made his first international visit to Turkey in 2017.
 
 ![alt text](image.png)
 
 
-## Rezolvare
+## Solution
 
-Intuitiv, ca prim pas doar am dat un Reverse Image search pe diferite motoare de cautare. Pe Yandex in schimb, am gasit poze cu presedintele Turciei alaturi de alti presedinti, in aceeasi locatie.
+Intuitively, as a first step I just ran a Reverse Image search on various search engines. On Yandex, however, I found photos of the president of Turkey alongside other presidents, in the same location.
 ![alt text](image-1.png)
 ![alt text](image-2.png)
-Toate site-urile duceau catre Ankara si "Presidential Complex". Asadar, doar am dat un search pe Google Maps cu keyword-urile gasite si m-au condus spre:
+All the sites led to Ankara and the "Presidential Complex". So I just ran a search on Google Maps with the keywords found and it led me to:
 ![alt text](image-5.png)
 
-Care este chiar locatia. Totusi pentru a confirma, in imaginea de mai sus ci si in imaginea de mai jos, se poate observa ceva in reflexia din spatele celor 2 presedinti.
+Which is exactly the location. Still, to confirm — in the image above as well as in the image below, you can see something in the reflection behind the 2 presidents.
 ![alt text](image-3.png)
 
-Se poate observa o statuie ce are in varf o stea, iar alaturi cladirii prezidentiale se afla chiar "July 15 Martyrs' Memorial", care arata exact asa:
+You can see a statue with a star on top, and next to the presidential building is the "July 15 Martyrs' Memorial", which looks exactly like this:
 
 ![alt text](image-6.png)
 
-Astfel, numele cladirii prezidentiale este **"T.C. Cumhurbaşkanlığı Külliyesi"**, iar coordonatele sunt: **39°55'51.2"N 32°47'56.8"E**.
+Thus, the name of the presidential building is **"T.C. Cumhurbaşkanlığı Külliyesi"**, and the coordinates are: **39°55'51.2"N 32°47'56.8"E**.
 
 ---

@@ -1,50 +1,54 @@
-## Execitiul #004
+[‹ Back to all exercises](../README.md) · [Versiunea în limba română →](README.ro.md)
 
-In acest exercitiu, primim o imagine cu un resort localizat pe o insula si trebuie sa raspundem la 3 intrebari. 
+---
+
+## Exercise #004
+
+In this exercise, we receive an image of a resort located on an island and have to answer 3 questions. 
 
 ![alt text](image.png)
 
-a) Care este numele resortului?
+a) What is the name of the resort?
 
-b) Care sunt coordonatele insulei?
+b) What are the coordinates of the island?
 
-c) In ce directie cardinala era camera cand poza a fost facuta?
+c) In which cardinal direction was the camera facing when the photo was taken?
 
 
-## Rezolvare
+## Solution
 
-Primul gand avand doar o imagine este de a da Reverse Image Search pe toate motoarele de cautare pana gasim numele insulei sau orice alt indiciu.
+The first thought, having only an image, is to run a Reverse Image Search on all search engines until we find the name of the island or any other clue.
 
 #### TinEye
 
 ![alt text](image-1.png)
 
-Pe TinEye gasim imagine in diferite blog-uri de medium.com, unde sunt multe writeup-uri la acest exercitiu, deci prin urmare nimic folositor.
+On TinEye we find the image on various medium.com blogs, where there are many writeups for this exercise, so nothing useful.
 
 #### Yandex
 
 ![alt text](image-2.png)
 
-Pe Yandex am avut mai mult noroc si am gasit 2 search-uri diferite cu numele resort-ului **Oan Resort**.
+On Yandex I had more luck and found 2 different searches with the name of the resort, **Oan Resort**.
 
-Astfel putem raspunde la intrebarea **a)**, raspunsul fiind **Oan Resort**.
+So we can answer question **a)**, the answer being **Oan Resort**.
 
 ---
 
-Pentru raspunsul la intrebarea **b)**, la search-ul pe Yandex putem observa ca unul dintre cele doua search-uri ce contineau numele resortului este chiar site-ul resortului: [oanresort.wixsite.com](https://oanresort.wixsite.com/chuuk). Accesand site-ul vedem un buton de **About**, pe care daca il apasam putem observa chiar poza care ne-a fost data de exercitiu, iar mai jos un video cu titlul *"Wondering where Oan Resort is located?"* unde ne este aratata locatia exacta a resortului.
+For the answer to question **b)**, in the Yandex search we can see that one of the two results containing the name of the resort is the resort's own website: [oanresort.wixsite.com](https://oanresort.wixsite.com/chuuk). Accessing the site we see an **About** button, which, if we press it, shows us the very photo we were given in the exercise, and below it a video titled *"Wondering where Oan Resort is located?"* where the exact location of the resort is shown to us.
 
 ![alt text](image-3.png)
 
-Am ales sa verific totusi personal si in Google Earth pentru a obtine coordonatele exacte: **7.362563211890621, 151.7563295252573**.
-Astfel am ajuns si la raspunsul de la intrebarea **b)** rapid.
+I chose to verify it myself in Google Earth as well, to obtain the exact coordinates: **7.362563211890621, 151.7563295252573**.
+So I reached the answer to question **b)** quickly.
 
 ----
 
 ![alt text](image-4.png)
 
-Tot incercand diferite unghiuri am ajuns la acesta. Mi s-a parut ca arata asemanator cu poza initiala asa ca am ajuns la concluzia ca raspunsul este in coltul din dreapta sus, unde se poate observa camera care este directionata in directia **Nord-Vest**.
+Trying different angles I arrived at this one. It looked similar to the original photo, so I concluded that the answer is in the top right corner, where you can see the camera pointing in the **North-West** direction.
 
-Astfel raspunsul final pentru intrebarea **c)** este **Nord-Vest**.
+Thus the final answer for question **c)** is **North-West**.
 
 
 ---
