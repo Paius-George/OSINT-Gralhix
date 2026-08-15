@@ -57,7 +57,7 @@ However, the first noticeable problem is that the reference photo seems to have 
 
 The latest accessible date on Google Maps is 2012, but what should raise our suspicions is the fact that the hair salon is not in the background. Therefore, we will have to find the period when the salon was opened and closed, respectively, to get closer to the answer.
 
-![alt text](Pasted_image_20260816010929.png)
+<img width="2534" height="1714" alt="image" src="https://github.com/user-attachments/assets/d5368ca8-9888-44c9-9fb6-a0eb9e0578c0" />
 
 In the red rectangle should be exactly the old hair salon, the current restaurant. I also underlined the exact address because it will be useful when we look for the salon's activity period. Until we get there, however, we need to find all the keywords, so we will need a Danish translation for the word **hairdresser/salon**.
 
