@@ -2,6 +2,8 @@
 
 *[English version →](README.md)*
 
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/c2a0ac66-1a08-4dd8-8c15-e722671681c6" />
+
 > Rezolvările mele scrise pentru **exercițiile OSINT** publicate de Sofia Santos
 > pe [gralhix.com](https://gralhix.com/list-of-osint-exercises/) — o serie de
 > provocări de open-source intelligence care acoperă geolocalizarea,
