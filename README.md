@@ -2,6 +2,8 @@
 
 *[Versiunea în limba română →](README.ro.md)*
 
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/9eaefd32-fed8-4a4b-8b9f-e37a2baa2991" />
+
 > My written solutions to the **OSINT exercises** published by Sofia Santos on
 > [gralhix.com](https://gralhix.com/list-of-osint-exercises/) — a series of
 > open-source intelligence challenges covering geolocation, chronolocation,
